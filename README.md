@@ -1,4 +1,4 @@
-[![MasterHead](https://animated-gif-creator.com/images/01/custom-logo-design-for-your-business-knb-logos_76.gif)]
+![MasterHead](https://animated-gif-creator.com/images/01/custom-logo-design-for-your-business-knb-logos_76.gif)
 <h1 align="center">Hi 👋, I'm Ankita Sahu</h1>
 <h3 align="center">I am an apprentice who is interested in technology, science, and programming and am currently passionate in openstack. </h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
